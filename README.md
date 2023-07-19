@@ -5,6 +5,7 @@
 
 <img align="right" alt="coding gif" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZkb3B5Zm41Zms4Ymdid3l6d2w1cG5iOTJvNWoybzRxeXprNWc4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
+
 - 🌱 I’m currently learning and building projects using MERN stack.
 - 👯 I’m actively looking for opportunities in SDE roles.
 - 🤔 I'm intrested in development and problem solving. I also enjoy doing competitive programming. 
