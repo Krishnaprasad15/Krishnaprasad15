@@ -10,7 +10,7 @@
 - 🤔 I'm intrested in development and problem solving. I also enjoy doing competitive programming. 
 - 💬 I'm currently holding #1 Rank in [geeksforgeeks practice](https://auth.geeksforgeeks.org/user/krishna1501/practice) in our MRIET college.
 - 📫 How to reach me: you can reach me through [Mail](mailto:krishna16151@gmail.com).
-- ⚡ Fun fact: I find my happiness in code.
+- ⚡ Fun fact: Code gives ENERGY.
 
 <br>
 <br>
