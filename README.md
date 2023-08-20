@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, Good to have you here!! 👋</h1>
+
 <h3 align="center">I am Krishan Prasad Katikireddy, currently pursuing my bachelors from MRIET,Hyderabad in Computer Science Engineering.</h3>
 
 <br>
@@ -15,6 +16,11 @@
 <br>
 <br>
 <hr>
+
+### 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=twitter&logoColor=white)](https://twitter.com/Krishna150111)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-prasad-katikireddy-9ba69b235/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mr._kittu_/)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
