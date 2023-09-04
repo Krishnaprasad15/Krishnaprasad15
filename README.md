@@ -62,7 +62,7 @@
 
 ### 📊 GitHub Stats:
 ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishnaprasad15&theme=dark&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Krishnaprasad15&theme=dark)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaprasad15&count_private=true&show_icons=true&theme=dark)
 
 ---
