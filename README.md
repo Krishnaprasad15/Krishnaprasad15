@@ -1,8 +1,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=5005&pause=1000&color=C035FF&vCenter=true&multiline=true&width=600&height=60&lines=Hi+there%2C+Good+to+have+you+here!!%F0%9F%91%8B" alt="Typing SVG" /></a></h1>
 <h3 align="center" color="white">I am Krishna Prasad Katikireddy, currently pursuing my bachelors from MRIET,Hyderabad in Computer Science Engineering.</h3>
-
 <br>
-
 <img align="right" alt="coding gif" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZkb3B5Zm41Zms4Ymdid3l6d2w1cG5iOTJvNWoybzRxeXprNWc4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I’m currently learning and building projects using MERN stack.
